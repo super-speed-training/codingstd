@@ -99,6 +99,160 @@ Naming Guideline
 
 @snapend
 
+---?image=template/img/pencils.jpg
+@title[Layout Guideline]
+
+## @color[black](Layout<br> Guideline)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Layout Guideline Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Layout Guideline
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Commenting Guideline]
+
+## @color[black](Commenting<br> Guideline)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Commenting Guideline Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Commenting Guideline
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Type Design Guideline]
+
+## @color[black](Type Design<br> Guideline)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Type Design Guideline Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Type Design Guideline
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Member Design Guideline]
+
+## @color[black](Member Design<br> Guideline)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Member Design Guideline Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Member Design Guideline
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Design Guideline for Exceptions]
+
+## @color[black](Design Guideline<br> for Exceptions)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Design Guideline for Exceptions]
+
+@snap[west split-screen-heading text-orange span-50]
+Design Guideline for Exceptions
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Usage Guidelines]
+
+## @color[black](Usage<br> Guidelines)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Usage Guideline Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Usage Guidelines
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
+---?image=template/img/pencils.jpg
+@title[Common Design Patterns]
+
+## @color[black](Common Design<br> Patterns)
+
+@fa[arrow-down text-black]
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Common Design Patterns Contents]
+
+@snap[west split-screen-heading text-orange span-50]
+Common Design Patterns
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list](false)
+
+- Capitalization.
+
+@olend
+@snapend
+
 ---
 @title[Tip! Fullscreen]
 
