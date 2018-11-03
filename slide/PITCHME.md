@@ -99,6 +99,25 @@ Naming Guideline
 
 @snapend
 
+---?image=template/img/bg/green.jpg&position=center&size=100% 65%
+@title[General Naming]
+
+@snap[north span-100]
+@size[1.5em](General Naming)
+@snapend
+
+@snap[midpoint text-white span-100]
+@ul[header-footer-list-shrink](false)
+
+- We can use the following suffixes in some occations,
+  - -Count, -No, -Index
+- We can use the following prefixes in some occations,
+  - Min-, Max-, Avg-
+- In loop: i, j, k can be used.
+- Do not use underscores to differentiate words, or for that matter, anywhere in identifiers.
+
+@snapend
+
 ---?image=template/img/pencils.jpg
 @title[Layout Guideline]
 
@@ -268,39 +287,6 @@ For the best viewing experience, press F for fullscreen.
 
 @snap[west headline span-100]
 Coding<br>*Standard @css[text-orange](End) ;)*
-@snapend
-
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----
-@title[The Template Docs]
-
-@snap[west headline span-100]
-GitPitch<br>*The Template @css[text-orange](End) ;)*
 @snapend
 
 @snap[south docslink span-100]
